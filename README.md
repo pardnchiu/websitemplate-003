@@ -7,7 +7,7 @@
 
 ### 引用
 
-- [fontawesome 5.1](https://fontawesome.com)
+- [Font Awesome 5.1](https://fontawesome.com)
 
 ### 預覽
 
